@@ -1,0 +1,14 @@
+body{
+    background-color:pink;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.minhasseries{
+    display: unset;
+    margin-left: 50px;
+}
+.minhasseries1{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #222222;
+}
